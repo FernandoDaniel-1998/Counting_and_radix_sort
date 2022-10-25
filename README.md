@@ -1,1 +1,1 @@
-# Implementação do algoritmo de radix sort, juntamente com o counting sort
+# Implementação dos algoritmos radix sort e counting sort
